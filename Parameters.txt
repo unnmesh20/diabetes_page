@@ -1,0 +1,18 @@
+Age
+Income
+Gender
+Vegerterian or Non Vegeterian
+Patient of BP
+Weight
+On a scale of 1-5 how much happy
+Are you angry or cool
+Profession
+Do you eat rice twice a day
+How much tea do you drink in a day
+Exercise in a day
+Alochol
+Cigarette
+Family History
+Sweet
+Which part of India do you belong
+
